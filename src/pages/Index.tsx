@@ -61,7 +61,7 @@ const Index = () => {
               </button>
             </div>
             <div className="text-center text-sm text-primary-foreground/70">
-              <span>© 2025 Liam De Wet</span>
+              <span>© 2026 Liam De Wet</span>
               <span className="text-accent mx-2">•</span>
               <span>Contact for payments & project details - No online transactions</span>
             </div>
